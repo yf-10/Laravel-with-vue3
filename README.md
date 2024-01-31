@@ -12,3 +12,9 @@ Composer version 2.6.6 2023-12-08 18:32:26
 
 ##### npm
 8.1.0
+
+## Starter Kits
+
+##### Laravel
+###### https://laravel.com/docs/10.x/installation
+###### https://laravel.com/docs/10.x/starter-kits
